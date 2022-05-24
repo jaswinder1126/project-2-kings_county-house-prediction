@@ -15,6 +15,7 @@
 * the first model is created by stats.model code.
 * which represent the correleation among vsriables.
 * the model was rejected as it shows abnormal behaviour.
+###### another model is created by same technique, but with less variable
 ### second model
 * this creared by train and test split code
 * the ratio for this split is 3:7
