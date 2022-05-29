@@ -25,10 +25,4 @@
 ### cross-validation
 * the seciond model is tested by concept using cross validation.
 * both scores are almost same but not identical.
-### third(final mode)
-* this is created by train test split with ratio 2:8
-* coefficients are much better
-* visualization supports the model
-* prediction is significant
-### cross-validatipn
-the c-v score is far better
+# recomendations
